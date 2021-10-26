@@ -1,0 +1,110 @@
+.u-section-1 {
+  background-image: url("images/Mumbai-4-bhk-penthouse-Aum-Architects-35.jpg");
+  background-position: 79.12% 90.47%;
+  background-size: auto 140%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 948px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 240px;
+  margin-bottom: -17px;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 628px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 6rem;
+  text-transform: uppercase;
+  font-weight: 100;
+  letter-spacing: 8px;
+  margin: 0;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 628px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 7px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.125rem;
+  margin: 25px 0 0 7px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 638px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 60px;
+    margin-bottom: -37px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 518px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 518px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    width: 326px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 317px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-bottom: 60px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 4.5rem;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 300px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 417px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+  }
+}
